@@ -1,4 +1,4 @@
-## SIGIR 2018（18年7月8-12日，美国密歇根州Ann Arbor）
+## [SIGIR 2018](http://sigir.org/sigir2018/accepted-papers/)（18年7月8-12日，美国密歇根州Ann Arbor）
 Long Paper 大概有 15 篇，Short 的还有一些，讲 ranking 的也不少。这一届 SIGIR 的 **Best Paper** 是研究推荐的！
 
 1) **Adversarial Personalized Ranking for Recommendation**
@@ -103,7 +103,7 @@ Nguyen Vo (Worcester Polytechnic Institute); Kyumin Lee (Worcester Polytechnic I
 
 Jarana Manotumruksa (University of Glasgow); Craig Macdonald (University of Glasgow); Iadh Ounis (University of Glasgow)
 
-## SIGIR 2017（17年8月7-11日，日本东京）
+## [SIGIR 2017](https://dblp.org/db/conf/sigir/sigir2017)（17年8月7-11日，日本东京）
 Long Paper 大概有 13 篇，**IRGAN** 拿了这届 SIGIR **Best Paper** 的 Honourable Mention。
 
 ---
