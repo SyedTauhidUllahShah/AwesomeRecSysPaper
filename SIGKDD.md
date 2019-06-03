@@ -1,4 +1,4 @@
-## KDD 2018（18年8月19-23日，英国伦敦）
+## [KDD 2018](https://www.kdd.org/kdd2018/accepted-papers)（18年8月19-23日，英国伦敦）
 Research Track 大概有 16 篇，ADS Track 也有不少值得一看的论文，比如 Pinterest 的 PinSage，阿里巴巴的十亿量级商品embedding和深度树模型，还有最佳论文 Real-time Personalization using Embeddings for Search Ranking at Airbnb。
 
 1) **STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation**
@@ -108,7 +108,7 @@ Shi-Yong Chen (Nanjing University); Yang Yu (Nanjing University); Qing Da (Aliba
 
 Yan Zhang (University of Science and Technology of China); Haoyu Wang (University of Science and Technology of China); Defu Lian (University of Science and Technology of China); Ivor W) Tsang (University of Technology, Sydney); Hongzhi Yin (The University of Queensland); Guowu Yang (University of Science and Technology of China)
 
-## KDD 2017（17年8月13-17日，加拿大哈利法克斯）
+## [KDD 2017](https://www.kdd.org/kdd2017/accepted-papers)（17年8月13-17日，加拿大哈利法克斯）
 Research Track 大概有 10 篇，ADS Track 中阿里的 Cascade Ranking for Operational E-commerce Search 和 Yahoo 的 Embedding-based News Recommendation for Millions of Users 可以看看。
 
 1) **Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks**
