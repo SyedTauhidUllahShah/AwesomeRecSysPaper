@@ -110,90 +110,90 @@ Long Paper 大概有 13 篇，**IRGAN** 拿了这届 SIGIR **Best Paper** 的 Ho
 
 1) **Multi-site User Behavior Modeling and Its Application in Video Recommendation**
 
-Chunfeng Yang, Huan Yan, Donghan Yu, Yong Li, Dah Ming Chiu:
+Chunfeng Yang (Chinese University of Hong Kong), Huan Yan (Tsinghua University), Donghan Yu (Tsinghua University), Yong Li (Tsinghua University), Dah Ming Chiu(Chinese University of Hong Kong)
 
 
 ---
 
-2.**Item Silk Road: Recommending Items from Information Domains to Social Users**
+2.**Item Silk Road Recommending Items from Information Domains to Social Users**
 
-Xiang Wang, Xiangnan He, Liqiang Nie, Tat-Seng Chua:
+Xiang Wang (National University of Singapore), Xiangnan He (National University of Singapore), Liqiang Nie (ShanDong University), Tat-Seng Chua (National University of Singapore)
 
 
 ---
 
 3) **Cross-Domain Recommendation via Clustering on Multi-Layer Graphs**
 
-Aleksandr Farseev, Ivan Samborskii, Andrey Filchenkov, Tat-Seng Chua:
+Aleksandr Farseev (National University of Singapore), Ivan Samborskii (ITMO University & National University of Singapore), Andrey Filchenkov (ITMO University), Tat-Seng Chua (National University of Singapore)
 
 
 ---
 
-4) **A Probabilistic Reformulation of Memory-Based Collaborative Filtering: Implications on Popularity Biases**
+4) **A Probabilistic Reformulation of Memory-Based Collaborative Filtering Implications on Popularity Biases**
 
-Rocío Cañamares, Pablo Castells:
+Rocío Cañamares (Universidad Autónoma de Madrid), Pablo Castells (Universidad Autónoma de Madrid)
 
 
 ---
 
 5) **Personalized Key Frame Recommendation**
 
-Xu Chen, Yongfeng Zhang, Qingyao Ai, Hongteng Xu, Junchi Yan, Zheng Qin:
+Xu Chen (Tsinghua University), Yongfeng Zhang (University of Massachusetts Amherst), Qingyao Ai (University of Massachusetts Amherst), Hongteng Xu (Georgia Institute of Technology), Junchi Yan (East China Normal University & IBM Research), Zheng Qin (Tsinghua University)
 
 
 ---
 
 6) **Personalized Itinerary Recommendation with Queuing Time Awareness**
 
-Kwan Hui Lim, Jeffrey Chan, Shanika Karunasekera, Christopher Leckie:
+Kwan Hui Lim (The University of Melbourne), Jeffrey Chan (RMIT & The University of Melbourne), Shanika Karunasekera (The University of Melbourne), Christopher Leckie (The University of Melbourne)
 
 
 ---
 
-7) **Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention**
+7) **Attentive Collaborative Filtering Multimedia Recommendation with Item- and Component-Level Attention**
 
-Jingyuan Chen, Hanwang Zhang, Xiangnan He, Liqiang Nie, Wei Liu, Tat-Seng Chua:
+Jingyuan Chen (National University of Singapore), Hanwang Zhang (Columbia University), Xiangnan He (National University of Singapore), Liqiang Nie (ShanDong University), Wei Liu (Tencent AI Lab), Tat-Seng Chua (National University of Singapore)
 
 
 ---
 
 8) **Neural Rating Regression with Abstractive Tips Generation for Recommendation**
 
-Piji Li, Zihao Wang, Zhaochun Ren, Lidong Bing, Wai Lam:
+Piji Li (Chinese University of Hong Kong), Zihao Wang (Chinese University of Hong Kong), Zhaochun Ren (Data Science Lab, JD.com), Lidong Bing (AI Lab, Tencent Inc.), Wai Lam (Chinese University of Hong Kong)
 
 
 ---
 
 9) **Neural Factorization Machines for Sparse Predictive Analytics**
  
-Xiangnan He, Tat-Seng Chua:
+Xiangnan He (National University of Singapore), Tat-Seng Chua (National University of Singapore)
 
 
 ---
 
 10) **Content Recommendation for Viral Social Influence**
 
-Sergei Ivanov, Konstantinos Theocharidis, Manolis Terrovitis, Panagiotis Karras:
+Sergei Ivanov (Skoltech), Konstantinos Theocharidis (University of Peloponnese & Institute for the Management of Information Systems, Athena Research and Innovation Center), Manolis Terrovitis (Institute for the Management of Information Systems, Athena Research and Innovation Center), Panagiotis Karras (Aalborg University)
 
 
 ---
 
 11) **Exploiting Food Choice Biases for Healthier Recipe Recommendation**
 
-David Elsweiler, Christoph Trattner, Morgan Harvey:
+David Elsweiler (University of Regensburg), Christoph Trattner (MODUL University Vienna), Morgan Harvey (Northumbria University, Newcastle, United Kingdom)
 
 
 ---
 
 12) **Embedding Factorization Models for Jointly Recommending Items and User Generated Lists**
 
-Da Cao, Liqiang Nie, Xiangnan He, Xiaochi Wei, Shunzhi Zhu, Tat-Seng Chua:
+Da Cao (Xiamen University & Xiamen University of Technology), Liqiang Nie (Shandong University), Xiangnan He (National University of Singapore), Xiaochi Wei (Beijing Institute of Technology), Shunzhi Zhu (Xiamen University of Technology), Tat-Seng Chua (National University of Singapore)
 
 
 ---
 
-13) **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**
+13) **IRGAN A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**
 
-Jun Wang, Lantao Yu, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang, Dell Zhang:
+Jun Wang (University College London), Lantao Yu (Shanghai Jiao Tong University), Weinan Zhang (Shanghai Jiao Tong University), Yu Gong (Alibaba Group), Yinghui Xu (Alibaba Group), Benyou Wang (Tianjin University), Peng Zhang (Tianjin University), Dell Zhang ( Birkbeck, University of London)
 
 --------------------------------------------------------------------------------
