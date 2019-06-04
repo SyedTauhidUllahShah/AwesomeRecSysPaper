@@ -198,7 +198,7 @@ Jing Zhang (Renmin University of China)*; Bowen Hao (Renmin University of China)
 
 ---
 
-## [AAAI 2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)（18年2月2-2月7日，美国新奥尔良）
+## [AAAI 2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)（18年2月2-7日，美国新奥尔良）
 Main Track 大概有 16 篇。
 
 1) **Privacy Preserving Point-of-Interest Recommendation Using Decentralized Matrix Factorization**
@@ -296,3 +296,80 @@ Chang Zhou (Alibaba Group), Jinze Bai (Peking University), Junshuai Song (Peking
 Xiaoyan Cai (Northwestern Polytechnical University), Junwei Han (Northwestern Polytechnical University), Libin Yang (Northwestern Polytechnical University)
 
 ---
+
+## [AAAI 2017](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)（17年2月4-9日，美国洛杉矶）
+Main Track 大概有 12 篇。
+
+1) **Read the Silence: Well-Timed Recommendation via Admixture Marked Point Processes**
+
+Hideaki Kim (NTT Communication Science Laboratories), Tomoharu Iwata (NTT Communication Science Laboratories), Yasuhiro Fujiwara (NTT Communication Science Laboratories), Naonori Ueda (NTT Communication Science Laboratories) 
+
+--- 
+
+2) **Exploiting both Vertical and Horizontal Dimensions of Feature Hierarchy for Effective Recommendation**
+
+Zhu Sun (Nanyang Technological University), Jie Yang (Delft University of Technology), Jie Zhang (Nanyang Technological University), Alessandro Bozzon (Delft University of Technology)
+
+--- 
+
+3) **CLARE: A Joint Approach to Label Classification and Tag Recommendation**
+
+Yilin Wang (Arizona State University), Suhang Wang (Arizona State University), Jiliang Tang (2Michigan State University), Guo-Jun Qi (University of Central Florida), Huan Liu (Arizona State University), Baoxin Li (Arizona State University) 
+
+--- 
+
+4) **Examples-Rules Guided Deep Neural Network for Makeup Recommendation**
+
+Taleb Alashkar (Northeastern University), Songyao Jiang (Northeastern University), Shuyang Wang (Northeastern University), Yun Fu (Northeastern University) 
+
+--- 
+
+5) **A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems**
+
+Xin Dong Ctrip Travel Network Technology (Shanghai) Co., Limited), Lei Yu (Ctrip Travel Network Technology (Shanghai) Co., Limited), Zhonghuo Wu (Ctrip Travel Network Technology (Shanghai) Co., Limited), Yuxia Sun (Ctrip Travel Network Technology (Shanghai) Co., Limited), Lingfeng Yuan (Ctrip Travel Network Technology (Shanghai) Co., Limited), Fangxi Zhang (Ctrip Travel Network Technology (Shanghai) Co., Limited) 
+
+--- 
+
+6) **Collaborative Dynamic Sparse Topic Regression with User Profile Evolution for Item Recommendation**
+
+Li Gao (University of Chinese Academy of Sciences), Jia Wu (University of Technology Sydney), Chuan Zhou (University of Chinese Academy of Sciences), Yue Hu (University of Chinese Academy of Sciences) 
+
+--- 
+
+7) **GLOMA: Embedding Global Information in Local Matrix Approximation Models for Collaborative Filtering**
+
+Chao Chen (IBM Research), Dongsheng Li (IBM Research), Qin Lv (Univeristy of Colorado Boulder), Junchi Yan (IBM Research & East China Normal University), Li Shang (Univeristy of Colorado Boulder), Stephen M. Chu (IBM Research) 
+
+---
+
+8) **ERMMA: Expected Risk Minimization for Matrix Approximation-based Recommender Systems**
+
+Dongsheng Li (IBM Research), Chao Chen (IBM Research), Qin Lv (Univeristy of Colorado Boulder), Li Shang (Univeristy of Colorado Boulder), Stephen M. Chu (IBM Research), Hongyuan Zha (Georgia Institute of Technology) 
+
+--- 
+
+9) **Finding Cut from the Same Cloth: Cross Network Link Recommendation via Joint Matrix Factorization**
+
+Arun Reddy Nelakurthi (Arizona State University), Jingrui He (Arizona State University) 
+
+--- 
+
+10) **Low-Rank Linear Cold-Start Recommendation from Social Data**
+
+Suvash Sedhain (Australian National University & Data61), Aditya Krishna Menon (Australian National University & Data61), Scott Sanner (Australian National University & University of Toronto), Lexing Xie (Australian National University & Data61), Darius Braziunas (Rakuten Kobo Inc) 
+
+--- 
+
+11) **Factorization Bandits for Interactive Recommendation**
+
+Huazheng Wang (University of Virginia), Qingyun Wu (University of Virginia), Hongning Wang (University of Virginia) 
+
+--- 
+
+12) **Efficient Ordered Combinatorial Semi-Bandits for Whole-Page Recommendation**
+
+Yingfei Wang (Princeton University), Hua Ouyang (Apple Inc.), Chu Wang (Nokia Bell Labs), Jianhui Chen (Yahoo Research), Tsvetan Asamov (Princeton University), Yi Chang (Huawei Research America) 
+
+--- 
+
+
