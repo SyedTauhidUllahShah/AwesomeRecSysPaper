@@ -115,7 +115,7 @@ Chunfeng Yang (Chinese University of Hong Kong), Huan Yan (Tsinghua University),
 
 ---
 
-2.**Item Silk Road Recommending Items from Information Domains to Social Users**
+2.**Item Silk Road: Recommending Items from Information Domains to Social Users**
 
 Xiang Wang (National University of Singapore), Xiangnan He (National University of Singapore), Liqiang Nie (ShanDong University), Tat-Seng Chua (National University of Singapore)
 
@@ -192,7 +192,7 @@ Da Cao (Xiamen University & Xiamen University of Technology), Liqiang Nie (Shand
 
 ---
 
-13) **IRGAN A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**
+13) **IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models**
 
 Jun Wang (University College London), Lantao Yu (Shanghai Jiao Tong University), Weinan Zhang (Shanghai Jiao Tong University), Yu Gong (Alibaba Group), Yinghui Xu (Alibaba Group), Benyou Wang (Tianjin University), Peng Zhang (Tianjin University), Dell Zhang ( Birkbeck, University of London)
 
