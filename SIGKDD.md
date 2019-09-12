@@ -1,3 +1,106 @@
+## [KDD 2019](https://www.kdd.org/kdd2019/accepted-papers)（19年8月4-8日，美国阿拉斯加）
+Research Track 大概有 17 篇，ADS Track 的等晚点会议召开了再关注。 Reasearch Track 有一篇 Jure Leskovec 教授跟美团点评合作的使用GCN做基于知识图谱的推荐，值得看看。
+
+1) **An Visual Dialog Augmented Interactive Recommender System**
+
+Tong Yu (Samsung Electronics);Yilin Shen (Samsung Electronics);Hongxia Jin (Samsung Electronics);
+
+---
+
+2) **Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction**
+
+Wenyi Xiao (The Hong Kong University of Science and Technology);Huan Zhao (The Hong Kong University of Science and Technology);Haojie Pan (The Hong Kong University of Science and Technology);Yangqiu Song (The Hong Kong University of Science and Technology);Vincent W. Zheng (WeBank, China);Qiang Yang (The Hong Kong University of Science and Technology);
+
+---
+
+3) **DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation**
+
+Donghua Liu (School of Computer Science Wuhan University);Jing Li (School of Computer Science Wuhan University);Bo Du (School of Computer Science Wuhan University);Jun Chang (School of Computer Science Wuhan University);Rong Gao (School of Computer Science Hubei University of Technology);
+
+---
+
+4) **Dual Sequential Prediction Models Linking Sequential Recommendation and Information Dissemination**
+
+Qitian Wu (Shanghai Jiao Tong University);Yirui Gao (Shanghai Jiao Tong University);Xiaofeng Gao (Shanghai Jiao Tong University);Paul Weng (Shanghai Jiao Tong University);Guihai Chen (Shanghai Jiao Tong University);
+
+---
+
+5) **Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation**
+
+Lisi Chen (Inception Institute of Artificial Intelligence);Shuo Shang (Inception Institute of Artificial Intelligence);Christian S. Jensen (Aalborg University);Bin Yao (Shanghai Jiao Tong University);Zhiwei Zhang (Hong Kong Baptist University);Ling Shao (Inception Institute of Artificial Intelligence);
+
+---
+
+6) **Empowering A\* Search Algorithms with Neural Networks for Personalized Route Recommendation**
+
+Jingyuan Wang (Beihang University);Ning Wu (Beihang University);Xin Zhao (Renmin University of China);Fanzhang Peng (Beihang University);Xin Lin (Beihang University);
+
+---
+
+7) **End-to-end Modeling of High-order Relations in Knowledge Graph for Recommendation**
+
+Xiang Wang (National University of Singapore);Xiangnan He (University of Science and Technology of China);Yixin Cao (National University of Singapore);Meng Liu (Shandong University);Tat-Seng Chua (National University of Singapore);
+
+---
+
+8) **Environment Reconstruction with Hidden Confounders for Reinforcement Learning based Recommendation**
+
+Wenjie Shang (Nanjing University);Yang Yu (Nanjing University);Qingyang Li (AI Labs, Didi Chuxing);Zhiwei Qin (AI Labs, Didi Chuxing);Yiping Meng (AI Labs, Didi Chuxing);Jieping Ye (AI Labs, Didi Chuxing);
+
+---
+
+9) **Estimating Personalized Preferences Through Meta-Learning for User Cold-Start Recommendation**
+
+Hoyeop Lee (NCSOFT Co.);Jinbae Im (NCSOFT Co.);Seongwon Jang (NCSOFT Co.);Hyunsouk Cho (NCSOFT Co.);Sehee Chung (NCSOFT Co.);
+
+---
+
+10) **Exact-K Recommendation via Maximal Clique Optimization**
+
+Yu Gong (Alibaba Group);Yu Zhu (Alibaba Group);Lu Duan (Zhejiang Cainiao Supply Chain Management Co., Ltd);Qingwen Liu (Alibaba Group);Ziyu Guan (Xidian University);Fei Sun (Alibaba);Wenwu Ou (Alibaba Group);Kenny Zhu (Shanghai Jiao Tong University);
+
+11) **Fighting Opinion Control in Social Networks via Link Recommendation**
+
+Victor Amelkin (University of Pennsylvania);Ambuj Singh (University of California, Santa Barbara);
+
+---
+
+12) **Hierarchical Gating Networks for Sequential Recommendation**
+
+Chen Ma (McGill University);Peng Kang (Northwestern University);Xue Liu (McGill University);
+
+---
+
+13) **Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization**
+
+Hongwei Wang (Shanghai Jiao Tong University);Fuzheng Zhang (Meituan-Dianping Group);Mengdi Zhang (Meituan-Dianping Group);Jure Leskovec (Stanford University);Miao Zhao (The Hong Kong Polytechnic University);Wenjie Li (The Hong Kong Polytechnic University);Zhongyuan Wang (Meituan-Dianping Group);
+
+---
+
+14) **Social Recommendation with Optimal Limited Attention**
+
+Xin Wang (Tsinghua University);Wenwu Zhu (Tsinghua University);Chenghao Liu (Singapore Management University);
+
+---
+
+15) **Streaming Session-based Recommendation**
+
+Lei Guo (Shandong Normal University);Hongzhi Yin (The University of Queensland);Qinyong Wang (The University of Queensland);Tong Chen (The University of Queensland);Alexander Zhou (The University of Queensland);Nguyen Quoc Viet Hung (Griffith University);
+
+---
+
+16) **Tensorized Determinantal Point Processes for Recommendation**
+
+Romain Warlop (fifty-five);Jérémie Mary (Criteo);Mike Gartrell (Criteo);
+
+---
+
+17) **λOpt: Learn to Regularize Recommender Models in Finer Levels**
+
+Yihong Chen (Tsinghua University);Bei Chen (Microsoft);Xiangnan He (University of Science and Technology of China);Chen Gao (Tsinghua University);Yong Li (Tsinghua University);Jian-Guang Lou (Microsoft);Yue Wang (Tsinghua University);
+
+---
+
 ## [KDD 2018](https://www.kdd.org/kdd2018/accepted-papers)（18年8月19-23日，英国伦敦）
 Research Track 大概有 16 篇，ADS Track 也有不少值得一看的论文，比如 Pinterest 的 PinSage，阿里巴巴的十亿量级商品embedding和深度树模型，还有最佳论文 Real-time Personalization using Embeddings for Search Ranking at Airbnb。
 

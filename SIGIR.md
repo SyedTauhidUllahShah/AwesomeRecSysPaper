@@ -1,3 +1,126 @@
+## [SIGIR 2019](http://sigir.org/sigir2019/program/accepted/)（19年7月21-25日，法国巴黎）
+Long Paper 足足有 20 篇，Short 的也不少。 Maarten de Rijke 教授发了3篇，何向南教授也发了3篇，罗格斯大学的 Yongfeng Zhang 教授发了4篇。。 官网公布的list没有表明组织，晚些公布了再补充。
+
+1) **A Capsule Network for Recommendation and Explaining What You Like and Dislike**
+
+Chenliang Li, Cong Quan, Peng Li, Yunwei Qi, Yuming Deng and Libing Wu
+
+---
+
+2) **A Collaborative Session-based Recommendation Approach with Parallel Memory Modules**
+
+Meirui Wang, Pengjie Ren, Lei Mei, Zhumin Chen, Jun Ma and Maarten de Rijke
+
+---
+
+3) **A Neural Influence Diffusion Model for Social Recommendation**
+
+Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang and Meng Wang
+
+---
+
+4) **Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation**
+
+Thanh Tran, Renee Sweeney and Kyumin Lee
+
+---
+
+5) **An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation**
+
+Chong Chen, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma
+
+---
+
+6) **Bayesian Personalized Feature Interaction Selection for Factorization Machines**
+
+Yifan Chen, Pengjie Ren, Yang Wang and Maarten de Rijke
+
+---
+
+7) **CROSS: Cross-platform Recommendation for Social E-Commerce**
+
+Tzu-Heng Lin, Chen Gao and Yong Li
+
+---
+
+8) **CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation**
+
+Ting Bai, Lixin Zou, Xin Zhao, Pan Du, Weidong Liu, Jian-Yun Nie and Ji-Rong Wen
+
+---
+
+9) **Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation**
+
+Lucas Vinh Tran, Tuan-Anh Nguyen Pham, Yi Tay, Yiding Liu, Gao Cong and Xiaoli Li
+
+---
+
+10) **Interpretable Fashion Matching with Rich Attributes**
+
+Xun Yang, Xiangnan He, Xiang Wang, Yunshan Ma, Fuli Feng, Meng Wang and Tat-Seng Chua
+
+---
+
+11) **Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning**
+
+Tao Gui, Peng Liu, Qi Zhang, Liang Zhu, Minlong Peng, Yunhua Zhou and Xuanjing Huang
+
+---
+
+12) **Neural Graph Collaborative Filtering**
+
+Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
+
+---
+
+13) **Noise Contrastive Estimation for One-Class Collaborative Filtering**
+
+Ga Wu, Maksims Volkovs, Chee Loong Soon, Scott Sanner and Himanshu Rai
+
+---
+
+14) **Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network**
+
+Xu Chen, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha and Zheng Qin
+
+---
+
+15) **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation**
+
+Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo and Yongfeng Zhang
+
+---
+
+16) **Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation**
+
+Xin Xin, Xiangnan He, Yongfeng Zhang, Yongdong Zhang and Joemon Jose
+
+---
+
+17) **The FacT: Taming Latent Factor Models for Explainability with Factorization Trees**
+
+Yiyi Tao, Yiling Jia, Nan Wang, Aobo Yang and Hongning Wang
+
+---
+
+18) **Transparent, Scrutable and Explainable User Models for Personalized Recommendation**
+
+Krisztian Balog, Filip Radlinski and Shushan Arakelyan
+
+---
+
+19) **Unified Collaborative Filtering over Graph Embeddings**
+
+Pengfei Wang, Hanxiong Chen, Yadong Zhu, Huawei Shen and Yongfeng Zhang
+
+---
+
+20) **π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations**
+
+Muyang Ma, Pengjie Ren, Yujie Lin, Zhumin Chen, Jun Ma and Maarten de Rijke
+
+---
+
 ## [SIGIR 2018](http://sigir.org/sigir2018/accepted-papers/)（18年7月8-12日，美国密歇根州Ann Arbor）
 Long Paper 大概有 15 篇，Short 的还有一些，讲 ranking 的也不少。这一届 SIGIR 的 **Best Paper** 是研究推荐的！
 
